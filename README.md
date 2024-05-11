@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Results-oriented Software Engineer with expertise 
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
 ### Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
