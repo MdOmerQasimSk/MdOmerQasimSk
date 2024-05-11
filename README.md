@@ -25,8 +25,12 @@ Welcome to my GitHub profile! Results-oriented Software Engineer with expertise 
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express Badge"> 
 
 ### Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge"> <img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular Badge">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge" alt="Sass Badge">
+<img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular Badge">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge"> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js Badge"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap Badge">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS Badge">
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge"> <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge" alt="Oracle Badge"> 
@@ -39,6 +43,10 @@ Welcome to my GitHub profile! Results-oriented Software Engineer with expertise 
 ### Cloud
 
 ### Tools
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" alt="Postman Badge"> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=for-the-badge" alt="Eclipse IDE Badge">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" alt="Visual Studio Code Badge">
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=for-the-badge" alt="SonarQube Badge">
 
 ---
 
