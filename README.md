@@ -52,6 +52,5 @@ Welcome to my GitHub profile! Results-oriented Software Engineer with expertise 
 
 ## Let's Connect!
 
-Feel free to reach out to me if you have any questions, ideas, or opportunities you'd like to discuss.
-
+Feel free to reach out to me.
 📧 [Email](mailto:mohammedomerqasim@gmail.com) | 💬 [LinkedIn](https://www.linkedin.com/in/omer-qasim)
