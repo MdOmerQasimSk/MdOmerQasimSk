@@ -9,6 +9,7 @@ Welcome to my GitHub profile! Results-oriented Software Engineer with expertise 
 ## About Me
 
 - 🌍 Based in Toronto, Canada
+- 🎮 gaming enthusiast and Completionist
 - 📚 Currently learning Neo4j
 - 🧠 Constantly expanding my skillset to become a full-stack developer
 
@@ -17,11 +18,13 @@ Welcome to my GitHub profile! Results-oriented Software Engineer with expertise 
 ## Technical Skills
 
 ### Languages
-<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript Badge">
+<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge" alt="GraphQL Badge">
 
 ### Backend
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" alt="Spring Boot Badge"> <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge">
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" alt="Spring Badge"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" alt="Spring Boot Badge"> 
+<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express Badge"> 
 
 ### Frontend
@@ -41,6 +44,7 @@ Welcome to my GitHub profile! Results-oriented Software Engineer with expertise 
 <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge" alt="Cypress Badge"> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge" alt="Jest Badge">
 
 ### Cloud
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
@@ -52,5 +56,4 @@ Welcome to my GitHub profile! Results-oriented Software Engineer with expertise 
 
 ## Let's Connect!
 
-Feel free to reach out to me.
-📧 [Email](mailto:mohammedomerqasim@gmail.com) | 💬 [LinkedIn](https://www.linkedin.com/in/omer-qasim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-qasim) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedomerqasim@gmail.com)
