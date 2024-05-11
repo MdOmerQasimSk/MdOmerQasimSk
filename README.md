@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Results-oriented Software Engineer with expertise 
 ## About Me
 
 - 🌍 Based in Toronto, Canada
-- 🎮 gaming enthusiast and Completionist
+- 🎮 Gaming enthusiast and a completionist
 - 📚 Currently learning Neo4j
 - 🧠 Constantly expanding my skillset to become a full-stack developer
 
