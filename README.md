@@ -52,8 +52,9 @@ Welcome to my GitHub profile! I am a results-oriented Software Engineer with exp
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" alt="Visual Studio Code Badge">
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=for-the-badge" alt="SonarQube Badge">
 
-## 📚 Current Short-Term Objectives
+---
 
+## 📚 Current Short-Term Objectives
 - Next.js: Exploring the intricacies of Next.js for building powerful and efficient React applications.
 - Docker: Diving deep into Docker to understand containerization and its applications in modern development workflows.
 - DevOps Concepts: Enhancing knowledge in essential DevOps concepts to streamline development processes and improve collaboration.
