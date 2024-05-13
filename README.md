@@ -2,7 +2,7 @@
 
 ## Software Engineer | Aspiring Full Stack Developer
 
-Welcome to my GitHub profile! Results-oriented Software Engineer with expertise in Restful API and microservice architecture. Proficient in Java, Spring Boot, and PL/SQL. Skilled in end-to-end testing, ensuring production-ready APIs, and delivering high-quality solutions to complex challenges.
+Welcome to my GitHub profile! I am a results-oriented Software Engineer with expertise in Restful API and microservice architecture. Proficient in Java, Spring Boot, and PL/SQL. Skilled in end-to-end testing, ensuring production-ready APIs, and delivering high-quality solutions to complex challenges.
 
 ---
 
