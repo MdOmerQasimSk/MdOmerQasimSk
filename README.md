@@ -46,11 +46,17 @@ Welcome to my GitHub profile! I am a results-oriented Software Engineer with exp
 ### Cloud
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
 
-### Tools
+## Tools
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" alt="Postman Badge"> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=for-the-badge" alt="Eclipse IDE Badge">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" alt="Visual Studio Code Badge">
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=for-the-badge" alt="SonarQube Badge">
+
+## 📚 Current Short-Term Objectives
+
+- Next.js: Exploring the intricacies of Next.js for building powerful and efficient React applications.
+- Docker: Diving deep into Docker to understand containerization and its applications in modern development workflows.
+- DevOps Concepts: Enhancing knowledge in essential DevOps concepts to streamline development processes and improve collaboration.
 
 ---
 
